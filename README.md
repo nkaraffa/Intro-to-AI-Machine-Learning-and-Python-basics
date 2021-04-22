@@ -1,9 +1,9 @@
 # Intro-to-AI-Machine-Learning-and-Python-basics
 Compilation of everything I learned from a Udemy course of AI, ML, &amp; Python
 _________
-##Knowledge
+## Knowledge
 
-###Vocab:
+### Vocab:
 	• Heuristics:
 		○ a rule that works in many cases, but not in all. Enables you to quickly make a decision when there is no way or time for a detailed analysis of the situation.
 	• Deep Learning:
@@ -29,10 +29,10 @@ _________
 	• Random Forest:
 		○ Create data subsets, use different features for every set, then analyze and aggregate the results (similar to Bagging)
 
-###Explanations:
+### Explanations:
 	• AI -> ML -> Deep Learning
 
 ___________
-Source:
+## Source:
 
 https://www.udemy.com/course/introduction-to-ai-machine-learning-and-python-basics/learn/lecture/18695122#questions
