@@ -36,4 +36,4 @@ _________
 ___________
 ## Source:
 
-https://www.udemy.com/course/introduction-to-ai-machine-learning-and-python-basics/learn/lecture/18695122#questions
+https://www.udemy.com/course/introduction-to-ai-machine-learning-and-python-basics/
