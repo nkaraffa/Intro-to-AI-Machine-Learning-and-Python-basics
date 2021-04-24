@@ -10,7 +10,8 @@ _________
 	• Examples
 		○ Reggression Example (Excel)
 		○ Python Basics
-		○ Machine Learning (Python)
+		○ Python Basics Two
+		○ Machine Learning & Neural Networks (Python)
 
 _________
 ## Knowledge
