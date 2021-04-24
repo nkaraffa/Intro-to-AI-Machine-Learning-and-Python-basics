@@ -9,11 +9,12 @@ _________
 	• Sources
 	
 	
-	• Attached Work
+	• Attached Work (Python)
 		○ Reggression Example (Excel)
 		○ Python Basics
 		○ Python Basics Two
-		○ Linear Regression & Training 1 (Python)
+		○ Linear Regression & Training 1
+		o Classification_Model_Titanic
 
 _________
 ## Knowledge
