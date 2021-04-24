@@ -7,11 +7,13 @@ _________
 		○ Vocab
 		○ Explanation
 	• Sources
-	• Examples
+	
+	
+	• Attached Examples
 		○ Reggression Example (Excel)
 		○ Python Basics
 		○ Python Basics Two
-		○ Machine Learning & Neural Networks (Python)
+		○ Linear Regression & Training 1 (Python)
 
 _________
 ## Knowledge
