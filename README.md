@@ -9,7 +9,7 @@ _________
 	• Sources
 	
 	
-	• Attached Examples
+	• Attached Work
 		○ Reggression Example (Excel)
 		○ Python Basics
 		○ Python Basics Two
