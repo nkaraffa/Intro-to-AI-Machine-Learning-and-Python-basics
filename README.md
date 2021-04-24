@@ -48,6 +48,6 @@ _________
 	• AI -> ML -> Deep Learning
 
 ___________
-## Source:
+## Sources:
 
 https://www.udemy.com/course/introduction-to-ai-machine-learning-and-python-basics/
