@@ -52,3 +52,5 @@ ___________
 ## Sources:
 
 https://www.udemy.com/course/introduction-to-ai-machine-learning-and-python-basics/
+https://www.kaggle.com/c/titanic
+https://www.kaggle.com/zalando-research/fashionmnist
