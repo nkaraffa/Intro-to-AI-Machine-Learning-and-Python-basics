@@ -15,6 +15,7 @@ _________
 		○ Python Basics Two
 		○ Linear Regression & Training 1
 		o Classification Model - Titanic
+		o Neural Network - Fashion MNIST
 
 _________
 ## Knowledge
@@ -44,9 +45,15 @@ _________
 		○ First algorithm is trained on the data set. Every subsequent algorithm is modified to correct the previous versions mistakes. (Sequential Training Method)
 	• Random Forest:
 		○ Create data subsets, use different features for every set, then analyze and aggregate the results (similar to Bagging)
+	• Epoch:
+		○ Pass / Train the entire dataset through the neural network once
 
 ### Explanations:
 	• AI -> ML -> Deep Learning
+	
+	• Neural Network:  Input Layer -> Hidden Layer -> Output Layer
+		o Hidden layer nodes have different weights that help determine output
+	
 
 ___________
 ## Sources:
