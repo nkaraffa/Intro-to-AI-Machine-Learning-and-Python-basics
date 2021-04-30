@@ -74,6 +74,15 @@ _________
 		
 		o The neural network can only make determinations based on the above numerical factors (i.e. the neural network can't "see" the image only its details)
 
+			• Architecture of the Fashion MNIST Neural Network
+		○ Input Layer:  Will transform images from 2d to 1d
+		○ Hidden Layer:  Training will be performed here
+		○ Output Layer:  Will predict what class the image belongs to
+		
+		○ Training Method:
+			○ Back Propagation Algorithm:  neural networks guesses then answer is checked and graded; repeat as needed
+				o If the model predicted correctly, weights increase.
+				o If the model was wrong, weights decrease.
 
 
 ___________
