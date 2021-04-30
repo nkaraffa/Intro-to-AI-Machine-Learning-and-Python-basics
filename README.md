@@ -53,7 +53,28 @@ _________
 	
 	• Neural Network:  Input Layer -> Hidden Layer -> Output Layer
 		o Hidden layer nodes have different weights that help determine output
-	
+		
+	• Neural Network Example:
+		o We will be using  Fashion MNIST dataset (contains 70,000 images of clothing)
+		o The neural network will be able to determine the clothing item inputted into the code
+			
+		o This neural network will divide the Fashion MNIST dataset between training & test sample (ratio - 6:1)
+		○ Dataset has 10 classes of items:
+			• 0 T-shirt/top
+			• 1 Trouser
+			• 2 Pullover
+			• 3 Dress
+			• 4 Coat
+			• 5 Sandal
+			• 6 Shirt
+			• 7 Sneaker
+			• 8 Bag
+			• 9 Ankle boot
+		○ Each image has image size (28 x 28) and color intensity (0 - 255)
+		
+		o The neural network can only make determinations based on the above numerical factors (i.e. the neural network can't "see" the image only its details)
+
+
 
 ___________
 ## Sources:
